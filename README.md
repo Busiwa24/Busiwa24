@@ -9,4 +9,3 @@
                        
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I'm a Taurus
--->
