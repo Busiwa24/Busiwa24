@@ -9,7 +9,7 @@ I am a Full stack web developer). I started my coding journey at [Microverse inc
 - 🌱 I’m currently learning PHP and Python
 - 👯 I’m looking to collaborate on any exciting project
 - 🤔 I’m looking for help with advanced data structures and algorithms 
-- 📫 You can reach me at [@nemwel](https://www.linkedin.com/in/busiwa-liuma/)
+- 📫 You can reach me at [@busiwaliuma](https://www.linkedin.com/in/busiwa-liuma/)
 - 💬 Ask me about anything web development and technology
 
 ### Languages
@@ -25,15 +25,5 @@ I am a Full stack web developer). I started my coding journey at [Microverse inc
 ### Back End Development
 ![rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=53&color=currentColor)
 ![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nemwel-Boniface&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemwel-Boniface&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
-<div align="left">
-<a target="_blank"
-href="https://www.linkedin.com/in/nemwel-nyandoro-aa1b2620b/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="mailto:nemwelboniface@outlook.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href="https://twitter.com/nemwel_bonie"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<div/>
+
+
